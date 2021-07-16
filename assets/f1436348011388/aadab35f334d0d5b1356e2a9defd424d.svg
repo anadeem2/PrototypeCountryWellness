@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Healthbag</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Medical" sketch:type="MSLayerGroup" transform="translate(-20.000000, 3.000000)" stroke="#535353" stroke-width="2">
+            <g id="Healthbag" transform="translate(24.000000, 4.000000)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-126" x="0" y="7" width="53" height="38" rx="4"></rect>
+                <rect id="Rectangle-125" x="10" y="7" width="6" height="14"></rect>
+                <rect id="Rectangle-124" x="36" y="7" width="6" height="14"></rect>
+                <g id="Rectangle-126-+-Rectangle-127-+-Rectangle-128" transform="translate(17.000000, 22.000000)">
+                    <rect id="Rectangle-126" x="5" y="0" width="7" height="17" rx="2"></rect>
+                    <rect id="Rectangle-127" transform="translate(8.500000, 8.500000) rotate(-90.000000) translate(-8.500000, -8.500000) " x="5" y="0" width="7" height="17" rx="2"></rect>
+                    <rect id="Rectangle-128" x="5" y="5" width="7" height="7"></rect>
+                </g>
+                <path d="M34,8 C34,3.581722 30.418278,0 26,0 C21.581722,0 18,3.581722 18,8" id="Oval-230"></path>
+            </g>
+        </g>
+    </g>
+</svg>
